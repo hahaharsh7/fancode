@@ -31,5 +31,5 @@
 
 ### Execute the Main Logic
 
-Navigate to the `src` directory and run the `main.py` file:
+Run the `main.py` file:
 
